@@ -1,0 +1,8 @@
+c:\users\tianc\documents\visual studio 2010\Projects\TclP07CS - SysUI Ctrl\TclP07CS - SysUI Ctrl\bin\Debug\TclP07CS - SysUI Ctrl.exe
+c:\users\tianc\documents\visual studio 2010\Projects\TclP07CS - SysUI Ctrl\TclP07CS - SysUI Ctrl\bin\Debug\TclP07CS - SysUI Ctrl.pdb
+c:\users\tianc\documents\visual studio 2010\Projects\TclP07CS - SysUI Ctrl\TclP07CS - SysUI Ctrl\obj\x86\Debug\TclP07CS___SysUI_Ctrl.main.resources
+c:\users\tianc\documents\visual studio 2010\Projects\TclP07CS - SysUI Ctrl\TclP07CS - SysUI Ctrl\obj\x86\Debug\TclP07CS___SysUI_Ctrl.Properties.Resources.resources
+c:\users\tianc\documents\visual studio 2010\Projects\TclP07CS - SysUI Ctrl\TclP07CS - SysUI Ctrl\obj\x86\Debug\TclP07CS - SysUI Ctrl.csproj.GenerateResource.Cache
+c:\users\tianc\documents\visual studio 2010\Projects\TclP07CS - SysUI Ctrl\TclP07CS - SysUI Ctrl\obj\x86\Debug\TclP07CS - SysUI Ctrl.exe
+c:\users\tianc\documents\visual studio 2010\Projects\TclP07CS - SysUI Ctrl\TclP07CS - SysUI Ctrl\obj\x86\Debug\TclP07CS - SysUI Ctrl.pdb
+C:\Users\tianc\Documents\Visual Studio 2010\Projects\TclP07CS - SysUI Ctrl\TclP07CS - SysUI Ctrl\obj\x86\Debug\TclP07CS - SysUI Ctrl.csprojResolveAssemblyReference.cache
